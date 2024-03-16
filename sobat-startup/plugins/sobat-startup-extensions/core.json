@@ -1,7 +1,7 @@
 {
 	"name": "Sobat Startup Extensions",
-	"version": "1.0.1",
-	"download_url": "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions-1.0.0.zip",
+	"version": "1.0.0",
+	"download_url": "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions.zip",
 
 	"homepage": "https://themeforest.net/user/teamsobatstartup/",
 	"requires": "5.8",
