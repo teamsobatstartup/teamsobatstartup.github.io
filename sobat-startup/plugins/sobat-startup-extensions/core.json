@@ -1,0 +1,34 @@
+{
+	"name": "Sobat Startup Extensions",
+	"version": "1.0.0",
+	"download_url": "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions-1.0.0.zip",
+
+	"homepage": "https://themeforest.net/user/teamsobatstartup/",
+	"requires": "5.8",
+	"tested": "6.4",
+	"last_updated": "2024-01-16 00:00:00",
+
+	"author": "teamsobatstartup",
+	"author_homepage": "https://themeforest.net/user/teamsobatstartup/",
+
+	"sections": {
+		"description": "A plugin required to activate the functionality in the Sobat Startup themes.",
+		"changelog": "<h3>Changelog</h3><h4>1.0 – 2021-01-16</h4><ul><li>Initial release.</li></ul>"
+	},
+	
+	"icons" : {
+		"1x" : "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions/icon.png",
+		"2x" : "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions/icon.png"
+    }, 
+
+	"banners": {
+		"low": "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions/banner.png",
+		"high": "https://teamsobatstartup.github.io/sobat-startup/plugins/sobat-startup-extensions/icon.png"
+	},
+
+	"rating": 100,
+	"num_ratings": 1000,
+
+	"downloaded": 7500,
+	"active_installs": 5000
+}
