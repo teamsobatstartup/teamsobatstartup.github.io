@@ -1,6 +1,6 @@
 {
 	"name": "Sobat StartUp Extensions",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"download_url": "https://teamsobatstartup.github.io/plugins/sobat-startup-extensions.zip",
 
 	"homepage": "https://themeforest.net/user/teamsobatstartup/",
@@ -13,7 +13,7 @@
 
 	"sections": {
 		"description": "A plugin required to activate the functionality in the Sobat StartUp themes.",
-		"changelog": "<h3>Changelog</h3><h4>1.0 – 2024-01-16</h4><ul><li>Initial release.</li></ul>"
+		"changelog": "<h3>Changelog</h3><h4>1.0.0 – 2024-01-16</h4><ul><li>Initial release.</li></ul>"
 	},
 	
 	"icons" : {
